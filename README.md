@@ -17,7 +17,7 @@ To develop an interactive Power BI HR Analytics Dashboard that provides comprehe
 6. Education vs. Role – Match qualifications with job positions.
 
 # Result :- 
-1 . Successfully developed an interactive dashboard in Microsoft Power BI to analyze HR data with dynamic visualizations and KPI tracking.
+1. Successfully developed an interactive dashboard in Microsoft Power BI to analyze HR data with dynamic visualizations and KPI tracking.
 2. The dashboard enabled clear visualization of workforce strength, employee demographics, attrition trends, and retention performance across multiple departments.
 3. HR teams can now make faster and more accurate decisions related to hiring, employee development, and workforce optimization through real-time analytical insights.
 4. The project demonstrated how HR analytics can improve organizational productivity, employee retention, and strategic planning by transforming raw HR data into actionable information.
